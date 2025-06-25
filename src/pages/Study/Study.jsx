@@ -131,7 +131,7 @@ const Study = () => {
         <div className={styles.tools}>
           <div className={styles.toolItem}>
             <div className={styles.toolIcon} style={{ backgroundColor: '#FF6B6B' }} onClick={() => { navigate('/test', { state: { course: course } }) }}>
-              <img src="/icons/exam.png" alt="试卷库" />
+              <img src="file:///d%3A/OneDrive/Desktop/project/qian/public/icons/collect.png" alt="试卷库" />
             </div>
             <span className={styles.toolText}>试题库</span>
           </div>
