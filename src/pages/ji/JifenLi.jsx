@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import styles from './RIli.module.css';
+import './Rili.module.css';
 import Navbar from '../component/Navbar';
 import 'antd-mobile/es/global';
 import axios from 'axios';
