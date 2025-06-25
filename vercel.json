@@ -23,10 +23,5 @@
   ],
   "env": {
     "VITE_API_BASE_URL": "@vite_api_base_url"
-  },
-  "functions": {
-    "api/**/*.js": {
-      "runtime": "nodejs18.x"
-    }
   }
 } 
