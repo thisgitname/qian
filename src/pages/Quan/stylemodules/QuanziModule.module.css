@@ -1,0 +1,56 @@
+.quanziBox{
+    padding: 0 14px;
+}
+.quanziBoxHome{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+.quanziBoxHome span{
+    display: inline-block;
+    margin-right: 20px;
+}
+.spanYemianZhu{
+    color: #333;
+    font-weight: 700;
+    border-bottom: 3px solid #54A1FC;
+    border-radius: 5px;
+}
+.spanYemianFu{
+    color: #414141;
+    font-size: 13px;
+}
+
+@font-face {
+    font-family: "iconfont"; /* Project id 4895172 */
+    src: url('//at.alicdn.com/t/c/font_4895172_fwd5y3bqlij.woff2?t=1749182337613') format('woff2'),
+         url('//at.alicdn.com/t/c/font_4895172_fwd5y3bqlij.woff?t=1749182337613') format('woff'),
+         url('//at.alicdn.com/t/c/font_4895172_fwd5y3bqlij.ttf?t=1749182337613') format('truetype');
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .iconBiji:before {
+    content: "\e604";
+  }
+  
+  .iconBiji1:before {
+    content: "\e629";
+  }
+  
+  .iconBiji2:before {
+    content: "\e608";
+  }
+  
+  .iconBiji3:before {
+    content: "\e641";
+    font-size: 18px;
+  }
+ 

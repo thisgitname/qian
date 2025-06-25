@@ -1,0 +1,8160 @@
+[{
+  "_id": {
+    "$oid": "68510a0d7561fb672496250a"
+  },
+  "title": "《史记》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "司马迁",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "班固",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "司马光",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "左丘明",
+      "option": "D"
+    }
+  ],  
+  "answer": "A",
+  "status": 0,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496250d"
+  },
+  "title": "《老人与海》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "海明威",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "马克·吐温",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "杰克·伦敦",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "福克纳",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 1,
+  "state": 0,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962514"
+  },
+  "title": "老舍原名是什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "舒庆春",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "舒庆夏",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "舒庆冬",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "舒庆秋",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962517"
+  },
+  "title": "第二次世界大战的爆发年份是？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1939年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1941年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1945年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1937年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962518"
+  },
+  "title": "中国共产党的成立年份是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1921年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1919年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1949年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1931年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962521"
+  },
+  "title": "《西游记》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "吴承恩",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "罗贯中",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "施耐庵",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "曹雪芹",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962528"
+  },
+  "title": "《资治通鉴》的作者是谁？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "司马光",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "司马迁",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "班固",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "左丘明",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962529"
+  },
+  "title": "“新文化运动”开始的标志是？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "《新青年》杂志创刊",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "五四运动爆发",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "辛亥革命成功",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "中国共产党成立",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962534"
+  },
+  "title": "“三顾茅庐”讲述的是谁请诸葛亮出山的故事？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "刘备",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "曹操",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "孙权",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "司马懿",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496253a"
+  },
+  "title": "《乌合之众》的作者是谁？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "古斯塔夫·勒庞",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "弗洛伊德",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "荣格",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "马斯洛",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496253c"
+  },
+  "title": "《牡丹亭》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "汤显祖",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "关汉卿",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "王实甫",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "孔尚任",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496253d"
+  },
+  "title": "美国独立宣言签署于哪一年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1776年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1789年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1799年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1765年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496253e"
+  },
+  "title": "马克思主义哲学的直接理论来源是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "德国古典哲学",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "英国古典政治经济学",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "法国空想社会主义",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "古希腊哲学",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962540"
+  },
+  "title": "“澶渊之盟”是北宋与哪个民族政权签订的？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "辽",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "金",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "西夏",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "蒙古",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962542"
+  },
+  "title": "《聊斋志异》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "蒲松龄",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "纪晓岚",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "吴敬梓",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "李渔",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962544"
+  },
+  "title": "《论持久战》的作者是谁？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "毛泽东",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "周恩来",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "朱德",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "邓小平",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496254c"
+  },
+  "title": "“靖康之变”发生在哪个朝代？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "北宋",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "南宋",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "唐朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "元朝",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962551"
+  },
+  "title": "《资本论》的主要作者是谁？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "卡尔·马克思",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "弗里德里希·恩格斯",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "列宁",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "亚当·斯密",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962552"
+  },
+  "title": "《红楼梦》中贾宝玉的住所叫什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "怡红院",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "潇湘馆",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "蘅芜苑",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "稻香村",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962553"
+  },
+  "title": "“戊戌变法”发生在哪一年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1898年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1900年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1911年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1860年",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962556"
+  },
+  "title": "“郑和下西洋”最远到达哪里？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "非洲东海岸",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "印度",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "阿拉伯半岛",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "东南亚",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496255b"
+  },
+  "title": "“开元盛世”出现在哪位皇帝在位时期？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐玄宗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "唐太宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "武则天",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "唐高宗",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962561"
+  },
+  "title": "《论法的精神》提出了什么重要理论？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "三权分立",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "社会契约",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "人民主权",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "阶级斗争",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962562"
+  },
+  "title": "《老人与海》中的老渔夫叫什么名字？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "圣地亚哥",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "马诺林",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "佩德里科",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "拉蒙",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962564"
+  },
+  "title": "《史记》中记载的鸿门宴发生在哪两个势力之间？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "刘邦与项羽",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "曹操与刘备",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "孙权与曹操",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "诸葛亮与周瑜",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962565"
+  },
+  "title": "《百年孤独》描写的是哪个家族的故事？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "布恩迪亚家族",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "阿尔卡蒂奥家族",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "马尔克斯家族",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "圣地亚哥家族",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962568"
+  },
+  "title": "“巴黎和会”是在哪场战争后召开的？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "第一次世界大战",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "第二次世界大战",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "普法战争",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "拿破仑战争",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962575"
+  },
+  "title": "《论法的精神》中提出的“三权分立”不包括哪项权力？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "立法权",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "行政权",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "司法权",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "军事权",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962576"
+  },
+  "title": "《西游记》中“三打白骨精”发生在哪个地方？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "白虎岭",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "火焰山",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "盘丝洞",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "女儿国",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962577"
+  },
+  "title": "“黄巢起义”发生在哪个朝代？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "宋朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "元朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明朝",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962579"
+  },
+  "title": "“安史之乱”发生在哪个朝代？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "宋朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "汉朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明朝",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496257b"
+  },
+  "title": "《三国演义》中“三顾茅庐”发生在什么地方？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "隆中",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "南阳",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "襄阳",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "新野",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496257e"
+  },
+  "title": "《红楼梦》中“大观园”是谁下令修建的？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "贾元春",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "贾政",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "王夫人",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "贾母",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962581"
+  },
+  "title": "《西游记》中“真假美猴王”出现在哪个情节之后？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "三打白骨精",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "大闹天宫",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "火焰山",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "女儿国",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962582"
+  },
+  "title": "《史记》中“鸿门宴”的主要策划者是谁？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "范增",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "张良",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "萧何",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "韩信",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962589"
+  },
+  "title": "“马关条约”签订于哪一年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1895年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1894年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1896年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1898年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496258a"
+  },
+  "title": "《论法的精神》中提出的“三权分立”不包括哪项权力？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "立法权",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "行政权",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "司法权",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "军事权",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496258b"
+  },
+  "title": "《西游记》中“金角大王”和“银角大王”是什么妖怪变的？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "太上老君的童子",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "观音菩萨的坐骑",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "如来佛祖的弟子",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "玉皇大帝的侍卫",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496258d"
+  },
+  "title": "“玄武门之变”发生在哪个朝代？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "汉朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "明朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "宋朝",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496258e"
+  },
+  "title": "《共产党宣言》中提出的“两个决裂”是指什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "同传统所有制和传统观念决裂",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "同资本主义和封建主义决裂",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "同私有制和剥削制度决裂",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "同帝国主义和殖民主义决裂",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962591"
+  },
+  "title": "《资本论》中提出的“商品二因素”是指什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "使用价值和价值",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "交换价值和剩余价值",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "价格和价值",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "劳动价值和剩余价值",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962592"
+  },
+  "title": "《水浒传》中“武松打虎”发生在什么地方？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "景阳冈",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "梁山泊",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "野猪林",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "十字坡",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962597"
+  },
+  "title": "“陈桥兵变”发生在哪个朝代？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "宋朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "唐朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "明朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "元朝",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962598"
+  },
+  "title": "《共产党宣言》中提出的“无产阶级专政”是指什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "无产阶级掌握国家政权",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "无产阶级与资产阶级联合执政",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "无产阶级领导的多党合作",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "无产阶级与农民阶级联盟",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496259b"
+  },
+  "title": "《资本论》中提出的“剩余价值率”计算公式是什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "剩余价值/可变资本",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "剩余价值/不变资本",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "剩余价值/总资本",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "剩余劳动/必要劳动",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496259d"
+  },
+  "title": "“马关条约”中割让的领土不包括哪里？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "台湾",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "澎湖列岛",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "辽东半岛",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "香港岛",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625a0"
+  },
+  "title": "《水浒传》中“智取生辰纲”的主要参与者不包括谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "晁盖",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "吴用",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "宋江",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "公孙胜",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625a2"
+  },
+  "title": "《共产党宣言》中提出的“消灭私有制”是指什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "废除生产资料私有制",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "废除生活资料私有制",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "废除一切私有财产",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "废除土地私有制",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625a4"
+  },
+  "title": "“靖难之役”后即位的明朝皇帝是谁？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "明成祖",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "明仁宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "明宣宗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明英宗",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625a8"
+  },
+  "title": "《论持久战》中提出的“兵民是胜利之本”是指什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "军队和人民的结合",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "全民皆兵",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "人民战争",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "军民融合",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625a9"
+  },
+  "title": "《西游记》中“白骨精”三次变化的形象不包括什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "少女",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "老妇人",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "老翁",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "孩童",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ac"
+  },
+  "title": "《共产党宣言》中提出的“全世界无产者联合起来”最早是用什么语言写的？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "德语",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "法语",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "英语",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "俄语",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625b6"
+  },
+  "title": "《共产党宣言》中提出的“消灭私有制”针对的是什么性质的私有制？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "资产阶级的私有制",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "封建地主的私有制",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "小生产者的私有制",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "奴隶主的私有制",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625b7"
+  },
+  "title": "《水浒传》中“鲁智深”在五台山出家时的法号是什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "智真",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "智深",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "智明",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "智清",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ba"
+  },
+  "title": "《三国演义》中“诸葛亮”北伐时病逝于何处？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "五丈原",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "祁山",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "街亭",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "汉中",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625c1"
+  },
+  "title": "《红楼梦》中“贾宝玉”与“林黛玉”共读《西厢记》发生在什么地方？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "沁芳闸桥边",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "潇湘馆",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "怡红院",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "蘅芜苑",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ce"
+  },
+  "title": "《三国演义》中“诸葛亮”北伐时使用了什么阵法困住司马懿？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "八卦阵",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "长蛇阵",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "八门金锁阵",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "混元一气阵",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625d0"
+  },
+  "title": "《论法的精神》中认为最适合君主政体的原则是什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "荣誉",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "品德",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "恐惧",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "平等",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625d7"
+  },
+  "title": "“开元盛世”出现在哪位皇帝在位时期？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐太宗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "唐玄宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "武则天",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "唐高宗",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625dd"
+  },
+  "title": "“黄巢起义”爆发于唐朝哪个皇帝在位时期？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐僖宗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "唐昭宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "唐懿宗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "唐武宗",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625e0"
+  },
+  "title": "“安史之乱”中安禄山建立的政权国号是什么？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "大燕",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "大齐",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "大周",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "大楚",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625e1"
+  },
+  "title": "“土木堡之变”发生在明朝哪个皇帝在位时期？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "明英宗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "明代宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "明宪宗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明孝宗",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625e4"
+  },
+  "title": "“陈桥兵变”发生在哪一年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "960年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "959年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "961年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "962年",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625eb"
+  },
+  "title": "我国最高国家权力机关是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "全国人民代表大会",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "国务院",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "最高人民法院",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "中国人民政治协商会议",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496250c"
+  },
+  "title": "“一国两制”方针最初是为解决什么问题提出的？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "台湾问题",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "香港问题",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "澳门问题",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "西藏问题",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496250e"
+  },
+  "title": "“五四运动”爆发的年份是？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1919年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1921年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1937年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1949年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962510"
+  },
+  "title": "《荷马史诗》包括哪两部作品？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "《伊利亚特》和《奥德赛》",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "《神曲》和《十日谈》",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "《战争与和平》和《安娜·卡列尼娜》",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "《悲惨世界》和《巴黎圣母院》",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962511"
+  },
+  "title": "“贞观之治”是哪个皇帝在位时期的盛世？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐太宗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "唐玄宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "武则天",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "唐高宗",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496251a"
+  },
+  "title": "《三国演义》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "罗贯中",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "施耐庵",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "曹雪芹",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "吴承恩",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496251e"
+  },
+  "title": "《共产党宣言》的作者是谁？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "卡尔·马克思和弗里德里希·恩格斯",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "列宁",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "毛泽东",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "斯大林",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962524"
+  },
+  "title": "中国改革开放的起始年份是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1978年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1989年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1992年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1966年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962525"
+  },
+  "title": "《哈姆雷特》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "威廉·莎士比亚",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "查尔斯·狄更斯",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "马克·吐温",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "简·奥斯汀",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962527"
+  },
+  "title": "《百年孤独》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "加西亚·马尔克斯",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "巴尔扎克",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "雨果",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "福楼拜",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496252c"
+  },
+  "title": "“开元盛世”是哪个皇帝在位时期的盛世？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐玄宗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "唐太宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "武则天",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "唐高宗",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962533"
+  },
+  "title": "《国富论》的作者是谁？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "亚当·斯密",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "凯恩斯",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "马克思",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "弗里德曼",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962535"
+  },
+  "title": "《双城记》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "查尔斯·狄更斯",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "雨果",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "托尔斯泰",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "马克·吐温",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962537"
+  },
+  "title": "“三个代表”重要思想的提出者是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "江泽民",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "邓小平",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "胡锦涛",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "习近平",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496253f"
+  },
+  "title": "《世说新语》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "刘义庆",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "干宝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "郦道元",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "颜之推",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962541"
+  },
+  "title": "“科学发展观”的提出者是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "胡锦涛",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "江泽民",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "邓小平",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "习近平",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962549"
+  },
+  "title": "“马关条约”签订于哪一年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1895年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1901年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1885年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1911年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496254a"
+  },
+  "title": "“一带一路”倡议提出于哪一年？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "2013年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "2015年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "2010年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "2018年",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496254e"
+  },
+  "title": "“九二共识”的核心内容是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "一个中国原则",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "两岸分治",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "一国两制",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "和平统一",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962557"
+  },
+  "title": "《论语》的核心思想是什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "仁",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "礼",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "义",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "智",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496255d"
+  },
+  "title": "“马关条约”割让了哪些领土？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "台湾及澎湖列岛",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "香港岛",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "辽东半岛",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "澳门",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962560"
+  },
+  "title": "“百日维新”持续了多少天？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "103天",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "100天",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "98天",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "105天",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962566"
+  },
+  "title": "《联合国宪章》签署于哪一年？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1945年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1946年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1948年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1950年",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962573"
+  },
+  "title": "《红楼梦》中“金陵十二钗”不包括哪位人物？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "妙玉",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "巧姐",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "秦可卿",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "薛宝琴",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496257a"
+  },
+  "title": "《共产党宣言》中提出的“全世界无产者联合起来”是什么语言的原文？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "德语",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "法语",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "英语",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "俄语",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962580"
+  },
+  "title": "《论持久战》中提出的抗战三阶段不包括哪个阶段？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "战略防御",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "战略相持",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "战略反攻",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "战略决战",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496258c"
+  },
+  "title": "《三国演义》中“空城计”发生在哪个城池？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "西城",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "荆州",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "汉中",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "襄阳",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496258f"
+  },
+  "title": "《红楼梦》中“贾宝玉”佩戴的通灵宝玉上刻着什么字？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "莫失莫忘，仙寿恒昌",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "不离不弃，芳龄永继",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "金玉良缘，木石前盟",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "假作真时真亦假",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962594"
+  },
+  "title": "《论持久战》中提出的抗战三阶段不包括哪个阶段？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "战略防御",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "战略相持",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "战略反攻",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "战略决战",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962595"
+  },
+  "title": "《西游记》中“红孩儿”是谁的孩子？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "牛魔王和铁扇公主",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "孙悟空和罗刹女",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "猪八戒和高翠兰",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "沙僧和百花羞",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496259e"
+  },
+  "title": "《论法的精神》中提出的“三权分立”不包括哪项权力？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "立法权",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "行政权",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "司法权",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "军事权",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ab"
+  },
+  "title": "“土木堡之变”中被俘的明朝皇帝后来如何复位？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "通过夺门之变",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "瓦剌主动放归",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "大臣联合请愿",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "发动政变夺权",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ad"
+  },
+  "title": "《红楼梦》中“刘姥姥进大观园”出现在第几回？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "第三十九回",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "第四十回",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "第四十一回",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "第四十二回",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625b1"
+  },
+  "title": "“马关条约”签订的具体地点在哪里？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "日本下关",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "日本东京",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "中国烟台",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "中国天津",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625b3"
+  },
+  "title": "《西游记》中“金角大王”和“银角大王”的干娘是什么妖怪？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "狐狸精",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "蛇精",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "蜘蛛精",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "白骨精",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625b8"
+  },
+  "title": "“安史之乱”中唐玄宗逃往何处避难？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "成都",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "洛阳",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "太原",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "长安",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625bf"
+  },
+  "title": "“陈桥兵变”中黄袍加身的是哪位将领？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "赵匡胤",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "赵光义",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "赵普",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "石守信",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625c0"
+  },
+  "title": "《共产党宣言》中提出的“无产阶级专政”最终目标是什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "建立社会主义社会",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "实现共产主义",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "消灭阶级差别",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "解放全人类",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625c2"
+  },
+  "title": "“郑和下西洋”使用的宝船主要在哪个地方建造？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "南京龙江船厂",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "泉州船厂",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "广州船厂",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "福州船厂",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625c3"
+  },
+  "title": "《资本论》中提出的“商品二重性”是指哪两个属性？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "使用价值和交换价值",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "使用价值和价值",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "交换价值和剩余价值",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "价值和剩余价值",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625c4"
+  },
+  "title": "《水浒传》中“武松”在景阳冈打虎前喝了多少碗酒？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "十八碗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "十五碗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "十二碗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "二十碗",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625c5"
+  },
+  "title": "“马关条约”中规定中国赔偿日本多少白银？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "二亿两",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "一亿两",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "三亿两",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "五千万两",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625c8"
+  },
+  "title": "《红楼梦》中“贾宝玉”的“通灵宝玉”上刻着什么字？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "莫失莫忘，仙寿恒昌",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "不离不弃，芳龄永继",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "金玉良缘，木石前盟",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "假作真时真亦假",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625cd"
+  },
+  "title": "《资本论》中提出的“剩余价值”是由谁创造的？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "工人",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "资本家",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "机器",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "土地",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625cf"
+  },
+  "title": "“马关条约”中规定割让给日本的领土不包括哪里？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "台湾",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "澎湖列岛",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "辽东半岛",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "香港岛",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625d1"
+  },
+  "title": "《西游记》中“红孩儿”最终被观音菩萨收为什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "善财童子",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "金身罗汉",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "护法伽蓝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "八部天龙",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625d2"
+  },
+  "title": "《水浒传》中“鲁智深”在五台山出家时的法号是什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "智真",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "智深",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "智明",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "智清",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625d5"
+  },
+  "title": "“一国两制”方针最初是为解决什么问题提出的？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "香港问题",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "澳门问题",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "台湾问题",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "西藏问题",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625da"
+  },
+  "title": "“郑和下西洋”最远到达了哪里？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "印度",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "阿拉伯半岛",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "非洲东海岸",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "东南亚",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625e3"
+  },
+  "title": "“戊戌变法”又称什么变法？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "百日维新",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "同治中兴",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "洋务运动",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "清末新政",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625e5"
+  },
+  "title": "“开元通宝”是哪个朝代的货币？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "宋朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "汉朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明朝",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625e8"
+  },
+  "title": "社会主义核心价值观中，国家层面的价值目标是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "富强、民主、文明、和谐",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "自由、平等、公正、法治",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "爱国、敬业、诚信、友善",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "和平、发展、合作、共赢",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625f1"
+  },
+  "title": "中国特色社会主义政治发展道路的根本保证是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "坚持中国共产党的领导",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "坚持人民当家作主",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "坚持依法治国",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "坚持社会主义核心价值体系",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625f6"
+  },
+  "title": "我国社会主义法治的根本要求是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "有法可依、有法必依、执法必严、违法必究",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "科学立法、严格执法、公正司法、全民守法",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "依法治国、以德治国",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "法律面前人人平等",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625f9"
+  },
+  "title": "我国宪法规定，公民的基本权利不包括：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "选举权和被选举权",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "言论、出版、集会、结社、游行、示威的自由",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "宗教信仰自由",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "罢工自由",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496250f"
+  },
+  "title": "马克思主义的三大组成部分不包括？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "科学社会主义",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "马克思主义哲学",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "马克思主义政治经济学",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "空想社会主义",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962512"
+  },
+  "title": "中国最高国家权力机关是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "全国人民代表大会",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "国务院",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "中共中央",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "最高人民法院",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962519"
+  },
+  "title": "《资本论》的作者是谁？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "卡尔·马克思",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "弗里德里希·恩格斯",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "列宁",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "毛泽东",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496251d"
+  },
+  "title": "美国独立战争爆发的年份是？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1775年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1789年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1765年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1799年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962522"
+  },
+  "title": "法国大革命的爆发年份是？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1789年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1776年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1799年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1815年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962523"
+  },
+  "title": "《战争与和平》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "列夫·托尔斯泰",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "陀思妥耶夫斯基",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "契诃夫",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "高尔基",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962526"
+  },
+  "title": "清朝的开国皇帝是谁？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "皇太极",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "康熙",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "乾隆",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "顺治",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496252a"
+  },
+  "title": "中国现行宪法是哪一年颁布的？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1982年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1954年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1978年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1949年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496252b"
+  },
+  "title": "《悲惨世界》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "雨果",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "巴尔扎克",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "大仲马",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "福楼拜",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496252d"
+  },
+  "title": "《共产党宣言》发表于哪一年？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1848年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1867年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1871年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1917年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496252e"
+  },
+  "title": "《红与黑》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "司汤达",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "福楼拜",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "莫泊桑",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "巴尔扎克",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962530"
+  },
+  "title": "中国共产党的最高理想和最终目标是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "实现共产主义",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "建设社会主义现代化强国",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "实现中华民族伟大复兴",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "全面建成小康社会",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962531"
+  },
+  "title": "《安娜·卡列尼娜》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "列夫·托尔斯泰",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "陀思妥耶夫斯基",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "契诃夫",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "高尔基",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962536"
+  },
+  "title": "中国第一个封建王朝是？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "秦朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "夏朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "商朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "周朝",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962539"
+  },
+  "title": "“玄武门之变”发生在哪个朝代？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "汉朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "明朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "宋朝",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496253b"
+  },
+  "title": "《罪与罚》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "陀思妥耶夫斯基",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "托尔斯泰",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "契诃夫",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "高尔基",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962545"
+  },
+  "title": "《西厢记》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "王实甫",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "关汉卿",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "马致远",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "白朴",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962546"
+  },
+  "title": "“开元通宝”是哪个朝代的货币？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "宋朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "汉朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明朝",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496254b"
+  },
+  "title": "《瓦尔登湖》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "梭罗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "爱默生",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "马克·吐温",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "惠特曼",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962554"
+  },
+  "title": "《共产党宣言》的发表年份是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1848年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1867年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1871年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1917年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962558"
+  },
+  "title": "“一国两制”最早是为解决什么问题提出的？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "台湾问题",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "香港问题",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "澳门问题",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "西藏问题",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496255c"
+  },
+  "title": "《战争与和平》描写的是哪场战争？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "拿破仑入侵俄国",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "克里米亚战争",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "第一次世界大战",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "俄土战争",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496255e"
+  },
+  "title": "《国富论》主要讨论什么经济学理论？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "自由市场经济",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "计划经济",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "重商主义",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "凯恩斯主义",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496255f"
+  },
+  "title": "《哈姆雷特》中主人公的叔叔叫什么名字？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "克劳狄斯",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "波洛涅斯",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "霍拉旭",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "雷欧提斯",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962563"
+  },
+  "title": "“雅尔塔会议”是哪三个国家参加的？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "美、英、苏",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "美、英、法",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "美、苏、中",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "英、法、苏",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962569"
+  },
+  "title": "《乌合之众》主要研究什么现象？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "群体心理",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "个人行为",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "社会结构",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "经济规律",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496256b"
+  },
+  "title": "“靖难之役”发生在哪个朝代？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "明朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "清朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "元朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "宋朝",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496256c"
+  },
+  "title": "《论持久战》发表于哪一年？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1938年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1940年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1945年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1935年",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496256d"
+  },
+  "title": "《唐璜》是哪位诗人的作品？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "拜伦",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "雪莱",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "济慈",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "华兹华斯",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962578"
+  },
+  "title": "《水浒传》中“智取生辰纲”发生在什么地方？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "黄泥冈",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "梁山泊",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "景阳冈",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "野猪林",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496257f"
+  },
+  "title": "“土木堡之变”发生在哪个皇帝在位时期？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "明英宗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "明宪宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "明孝宗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明武宗",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962583"
+  },
+  "title": "《战争与和平》中描写的“博罗金诺战役”发生在哪场战争中？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "拿破仑入侵俄国",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "克里米亚战争",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "俄土战争",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "七年战争",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962584"
+  },
+  "title": "“一国两制”构想最初是为解决什么问题提出的？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "台湾问题",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "香港问题",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "澳门问题",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "西藏问题",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962587"
+  },
+  "title": "《共产党宣言》中提出的“两个必然”是指什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "资本主义必然灭亡，社会主义必然胜利",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "资产阶级必然胜利，无产阶级必然失败",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "封建主义必然复辟，资本主义必然倒退",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "社会主义必然失败，共产主义必然实现",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962599"
+  },
+  "title": "《红楼梦》中“大观园”是谁下令修建的？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "贾元春",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "贾政",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "王夫人",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "贾母",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496259a"
+  },
+  "title": "“土木堡之变”中被俘的明朝皇帝是谁？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "明英宗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "明代宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "明宪宗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明孝宗",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625a3"
+  },
+  "title": "《红楼梦》中“贾宝玉”和“林黛玉”初次见面在什么地方？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "荣国府",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "宁国府",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "大观园",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "太虚幻境",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625a5"
+  },
+  "title": "《资本论》中提出的“资本有机构成”是指什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "不变资本与可变资本的比例",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "固定资本与流动资本的比例",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "生产资料与劳动力的比例",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "货币资本与商品资本的比例",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625a7"
+  },
+  "title": "“安史之乱”中叛军的首领是谁？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "安禄山",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "史思明",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "安庆绪",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "史朝义",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ae"
+  },
+  "title": "“郑和下西洋”的船队最远到达哪里？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "非洲东海岸",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "阿拉伯半岛",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "印度",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "东南亚",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625b9"
+  },
+  "title": "《资本论》中提出的“相对剩余价值”是通过什么方式获得的？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "延长工作日",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "提高劳动生产率",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "降低工人工资",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "增加劳动强度",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625bb"
+  },
+  "title": "“靖康之变”中被掳走的北宋皇帝是哪两位？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "徽宗、钦宗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "钦宗、高宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "徽宗、高宗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "仁宗、英宗",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625c7"
+  },
+  "title": "《西游记》中“金角大王”和“银角大王”的干娘住在什么洞？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "莲花洞",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "压龙洞",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "白骨洞",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "盘丝洞",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625d3"
+  },
+  "title": "《上林赋》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "司马相如",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "司马迁",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "司马光",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "司马炎",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625d4"
+  },
+  "title": "马克思主义政治经济学的核心理论是什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "劳动价值论",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "剩余价值论",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "阶级斗争论",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "社会发展论",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625dc"
+  },
+  "title": "“澶渊之盟”是北宋与哪个政权签订的和平条约？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "辽",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "金",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "西夏",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "蒙古",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625e2"
+  },
+  "title": "“马关条约”中规定中国赔偿日本多少白银？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "二亿两",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "一亿两",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "三亿两",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "五千万两",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625e7"
+  },
+  "title": "中国特色社会主义最本质的特征是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "人民民主专政",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "中国共产党的领导",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "社会主义市场经济",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "改革开放",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ed"
+  },
+  "title": "我国的基本经济制度是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "公有制为主体、多种所有制经济共同发展",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "按劳分配为主体、多种分配方式并存",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "社会主义市场经济体制",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "计划经济为主、市场调节为辅",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625f4"
+  },
+  "title": "我国处理国际关系的基本准则是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "和平共处五项原则",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "独立自主的和平外交政策",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "互利共赢的开放战略",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "构建人类命运共同体",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625f5"
+  },
+  "title": "我国宪法规定，国家的一切权力属于：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "中国共产党",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "人民",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "全国人民代表大会",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "国务院",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625f7"
+  },
+  "title": "我国的基本分配制度是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "按劳分配为主体、多种分配方式并存",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "按需分配",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "平均分配",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "按生产要素分配",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625f8"
+  },
+  "title": "我国的国家结构形式是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "单一制",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "联邦制",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "邦联制",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "复合制",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ee"
+  },
+  "title": "我国的国家性质是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "人民民主专政的社会主义国家",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "工人阶级领导的社会主义国家",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "中国共产党领导的社会主义国家",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "多党合作的社会主义国家",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625f0"
+  },
+  "title": "我国宪法规定，中华人民共和国的根本制度是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "社会主义制度",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "人民代表大会制度",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "中国共产党领导的多党合作和政治协商制度",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "民族区域自治制度",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496250b"
+  },
+  "title": "第一次鸦片战争爆发的年份是？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1840年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1856年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1860年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1839年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962513"
+  },
+  "title": "《傲慢与偏见》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "简·奥斯汀",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "夏洛蒂·勃朗特",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "艾米莉·勃朗特",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "乔治·艾略特",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962515"
+  },
+  "title": "《红楼梦》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "曹雪芹",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "罗贯中",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "施耐庵",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "吴承恩",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962516"
+  },
+  "title": "中国历史上第一个皇帝是谁？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "秦始皇",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "汉武帝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "唐太宗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "宋太祖",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496251b"
+  },
+  "title": "唐朝的开国皇帝是谁？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "李渊",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "李世民",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "李隆基",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "李治",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496251c"
+  },
+  "title": "《论语》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "孔子及其弟子",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "孟子",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "老子",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "庄子",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496251f"
+  },
+  "title": "《水浒传》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "施耐庵",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "罗贯中",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "曹雪芹",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "吴承恩",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962520"
+  },
+  "title": "明朝的开国皇帝是谁？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "朱元璋",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "朱棣",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "朱允炆",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "朱瞻基",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496252f"
+  },
+  "title": "“戊戌变法”发生在哪一年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1898年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1900年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1911年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1860年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962532"
+  },
+  "title": "“杯酒释兵权”是哪个朝代的事件？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "宋朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "唐朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "明朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "汉朝",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962538"
+  },
+  "title": "《格林童话》的作者是？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "格林兄弟",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "安徒生",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "王尔德",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "伊索",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962543"
+  },
+  "title": "“郑和下西洋”发生在哪个朝代？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "明朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "宋朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "元朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "清朝",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962547"
+  },
+  "title": "《社会契约论》的核心观点是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "人民主权",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "君主专制",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "宗教统治",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "无政府主义",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962548"
+  },
+  "title": "《儒林外史》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "吴敬梓",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "曹雪芹",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "蒲松龄",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "李汝珍",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496254d"
+  },
+  "title": "《梦溪笔谈》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "沈括",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "苏轼",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "王安石",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "陆游",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496254f"
+  },
+  "title": "《唐吉诃德》的作者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "塞万提斯",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "莎士比亚",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "但丁",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "歌德",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962550"
+  },
+  "title": "“贞观之治”出现在哪个朝代？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "宋朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "汉朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明朝",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962555"
+  },
+  "title": "《水浒传》中智取生辰纲的主要策划者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "吴用",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "宋江",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "晁盖",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "林冲",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962559"
+  },
+  "title": "《西游记》中孙悟空的兵器是什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "金箍棒",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "九齿钉耙",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "降妖宝杖",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "七星剑",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496255a"
+  },
+  "title": "《三国演义》中三英战吕布的三英不包括谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "关羽",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "张飞",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "赵云",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "刘备",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962567"
+  },
+  "title": "《红楼梦》中林黛玉的住所叫什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "潇湘馆",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "怡红院",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "蘅芜苑",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "稻香村",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496256a"
+  },
+  "title": "《双城记》描写的是哪两座城市的故事？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "伦敦与巴黎",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "纽约与伦敦",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "巴黎与柏林",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "罗马与雅典",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496256e"
+  },
+  "title": "《诗经》中“关关雎鸠”描写的是哪种鸟类？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "雎鸠",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "黄鹂",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "燕子",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "杜鹃",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496256f"
+  },
+  "title": "“杯酒释兵权”发生在哪个皇帝在位时期？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "宋太祖",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "宋太宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "宋真宗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "宋仁宗",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962570"
+  },
+  "title": "《理想国》的作者是谁？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "柏拉图",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "亚里士多德",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "苏格拉底",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "西塞罗",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962571"
+  },
+  "title": "“烽火戏诸侯”讲述的是哪位君王的故事？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "周幽王",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "商纣王",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "夏桀",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "周厉王",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962572"
+  },
+  "title": "《社会契约论》中提出的“公意”是指什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "集体意志",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "个人意愿",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "统治者意志",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "多数人意见",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962574"
+  },
+  "title": "“澶渊之盟”是北宋与哪个政权签订的条约？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "辽",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "金",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "西夏",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "蒙古",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496257c"
+  },
+  "title": "“靖康之变”发生在哪一年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1127年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1126年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1125年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1128年",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496257d"
+  },
+  "title": "《资本论》中提出的“剩余价值”理论主要批判什么制度？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "资本主义",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "封建主义",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "奴隶制度",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "社会主义",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962585"
+  },
+  "title": "《红楼梦》中“金陵十二钗”正册第一位是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "林黛玉",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "薛宝钗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "贾元春",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "史湘云",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962586"
+  },
+  "title": "“郑和下西洋”最远到达了哪里？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "非洲东海岸",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "印度",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "阿拉伯半岛",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "东南亚",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962588"
+  },
+  "title": "《水浒传》中“鲁智深”的绰号是什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "花和尚",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "行者",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "黑旋风",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "及时雨",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962590"
+  },
+  "title": "“靖难之役”发生在哪个皇帝在位时期？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "明成祖",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "明太祖",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "明仁宗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明宣宗",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962593"
+  },
+  "title": "“安史之乱”持续了多少年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "8年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "7年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "9年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "10年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb6724962596"
+  },
+  "title": "《三国演义》中“草船借箭”的主要策划者是谁？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "诸葛亮",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "周瑜",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "鲁肃",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "司马懿",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496259c"
+  },
+  "title": "《水浒传》中“林冲”的绰号是什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "豹子头",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "花和尚",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "黑旋风",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "及时雨",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb672496259f"
+  },
+  "title": "《西游记》中“金角大王”和“银角大王”的法宝是什么？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "紫金红葫芦和羊脂玉净瓶",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "金刚琢和幌金绳",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "芭蕉扇和七星剑",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "九齿钉耙和降妖宝杖",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625a1"
+  },
+  "title": "“黄巢起义”发生在哪个朝代末年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "唐朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "宋朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "元朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "明朝",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625a6"
+  },
+  "title": "《三国演义》中“七擒孟获”发生在哪个地区？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "南中",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "荆州",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "益州",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "交州",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625aa"
+  },
+  "title": "《三国演义》中“赤壁之战”的主要火攻计策是谁提出的？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "诸葛亮",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "周瑜",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "庞统",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "鲁肃",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625af"
+  },
+  "title": "《资本论》中提出的“商品拜物教”是指什么现象？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "人对商品的盲目崇拜",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "商品交换的神秘性",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "货币的魔力",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "生产关系的物化",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625b0"
+  },
+  "title": "《水浒传》中“武松醉打蒋门神”发生在什么地方？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "快活林",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "狮子楼",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "十字坡",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "景阳冈",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625b2"
+  },
+  "title": "《论法的精神》中提出的“地理环境决定论”认为什么最重要？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "气候条件",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "地形地貌",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "土壤肥力",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "自然资源",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625b4"
+  },
+  "title": "《红楼梦》中“贾宝玉”佩戴的通灵宝玉最初来自何处？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "女娲补天遗留的灵石",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "太虚幻境的仙石",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "大荒山无稽崖的顽石",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "蓬莱仙岛的奇石",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625b5"
+  },
+  "title": "“戊戌变法”期间颁布的“明定国是”诏是由哪位皇帝颁布的？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "光绪帝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "同治帝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "宣统帝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "道光帝",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625bc"
+  },
+  "title": "《论持久战》中提出的“防御中的进攻”是指什么战略？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "以退为进",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "诱敌深入",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "集中优势兵力歼敌",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "运动战中歼灭敌人",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625bd"
+  },
+  "title": "《西游记》中“红孩儿”最终被谁收服？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "观音菩萨",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "如来佛祖",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "太上老君",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "玉皇大帝",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625be"
+  },
+  "title": "《三国演义》中“空城计”是诸葛亮用来对付哪位魏国将领的？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "司马懿",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "张郃",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "曹真",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "夏侯渊",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625c6"
+  },
+  "title": "《论法的精神》中认为最适合民主政体的国家规模是？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "小国",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "中等国家",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "大国",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "城邦国家",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625c9"
+  },
+  "title": "“靖难之役”中朱棣攻入南京后，建文帝的下落如何？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "下落不明",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "自焚身亡",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "出家为僧",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "逃亡海外",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ca"
+  },
+  "title": "《共产党宣言》中提出的“无产阶级”是指什么阶级？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "工人阶级",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "农民阶级",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "没有生产资料的阶级",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "被剥削阶级",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625cb"
+  },
+  "title": "《水浒传》中“林冲”因为什么事件被逼上梁山？",
+  "course": "文学",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "高衙内调戏其妻",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "被陷害持刀闯入白虎堂",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "风雪山神庙",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "被发配沧州",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625cc"
+  },
+  "title": "“安史之乱”中杨贵妃最终在何处被赐死？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "马嵬驿",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "长安城",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "洛阳",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "成都",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625d6"
+  },
+  "title": "中国特色社会主义最本质的特征是什么？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "中国共产党领导",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "人民民主专政",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "社会主义市场经济",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "改革开放",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625d8"
+  },
+  "title": "“靖难之役”发生在哪个朝代？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "元朝",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "明朝",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "清朝",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "宋朝",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625d9"
+  },
+  "title": "“马关条约”签订于哪一年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1894年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1895年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1896年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1898年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625db"
+  },
+  "title": "“戊戌变法”持续了多少天？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "100天",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "103天",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "98天",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "105天",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625de"
+  },
+  "title": "“靖康之变”中被掳走的北宋皇帝是哪两位？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "徽宗、钦宗",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "钦宗、高宗",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "徽宗、高宗",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "仁宗、英宗",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625df"
+  },
+  "title": "“郑和下西洋”第一次出发是在哪一年？",
+  "course": "历史",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "1405年",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "1407年",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "1413年",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "1421年",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625e6"
+  },
+  "title": "马克思主义的三个组成部分不包括以下哪一项？",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "马克思主义哲学",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "马克思主义政治经济学",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "科学社会主义",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "空想社会主义",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625e9"
+  },
+  "title": "我国的基本政治制度不包括：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "人民代表大会制度",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "中国共产党领导的多党合作和政治协商制度",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "民族区域自治制度",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "基层群众自治制度",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ea"
+  },
+  "title": "新发展理念是指：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "创新、协调、绿色、开放、共享",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "改革、发展、稳定",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "富强、民主、文明、和谐",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "自由、平等、公正、法治",
+      "option": "D"
+    }
+  ],
+  "answer": "A",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ec"
+  },
+  "title": "马克思主义中国化的最新理论成果是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "毛泽东思想",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "邓小平理论",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "习近平新时代中国特色社会主义思想",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "三个代表重要思想",
+      "option": "D"
+    }
+  ],
+  "answer": "C",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625ef"
+  },
+  "title": "我国处理民族关系的基本原则是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "民族平等、民族团结、各民族共同繁荣",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "民族区域自治",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "各民族一律平等",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "各民族共同发展",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625f2"
+  },
+  "title": "我国社会主义民主政治的本质特征是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "人民当家作主",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "中国共产党的领导",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "依法治国",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "民主集中制",
+      "option": "D"
+    }
+  ],
+  "answer": "D",
+  "status": 2,
+  "state": 1,
+  "cate": "test"
+},
+{
+  "_id": {
+    "$oid": "68510a0d7561fb67249625f3"
+  },
+  "title": "我国最高国家行政机关是：",
+  "course": "政治",
+  "collect": false,
+  "options": [
+    {
+      "id": 1,
+      "content": "全国人民代表大会",
+      "option": "A"
+    },
+    {
+      "id": 2,
+      "content": "国务院",
+      "option": "B"
+    },
+    {
+      "id": 3,
+      "content": "最高人民法院",
+      "option": "C"
+    },
+    {
+      "id": 4,
+      "content": "中国人民政治协商会议",
+      "option": "D"
+    }
+  ],
+  "answer": "B",
+  "status": 2,
+  "state": 1,
+  "cate": "practice"
+}]

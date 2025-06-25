@@ -1,0 +1,191 @@
+.container {
+  font-family: sans-serif;
+  background: #fff;
+  padding: 16px;
+  max-width: 400px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 8px;
+}
+
+.navTitle {
+  font-weight: bold;
+  color: #222;
+  margin-right: 16px;
+}
+
+.navSub {
+  color: #888;
+  margin-right: auto;
+}
+
+.navIcon {
+  font-size: 18px;
+  color: #888;
+  cursor: pointer;
+}
+
+.banner {
+  position: relative;
+  margin: 16px 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.bannerImg {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;
+  filter: brightness(0.85);
+}
+
+.bannerContent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bannerPlay {
+  background: rgba(0,0,0,0.4);
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bannerPlayIcon {
+  color: #fff;
+  font-size: 28px;
+}
+
+.bannerText {
+  color: #fff;
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.headerTitle {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.headerBtn {
+  margin-left: auto;
+  font-size: 12px;
+  color: #888;
+  background: #f5f5f5;
+  border: none;
+  border-radius: 12px;
+  padding: 2px 12px;
+  cursor: pointer;
+}
+
+.list {
+}
+
+.listItem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  background: #fafafa;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.listImgWrap {
+  position: relative;
+  width: 56px;
+  height: 56px;
+  margin-right: 12px;
+}
+
+.listImg {
+  width: 56px;
+  height: 56px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.listPlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.listPlayIcon {
+  color: #fff;
+  font-size: 24px;
+  background: rgba(0,0,0,0.3);
+  border-radius: 50%;
+  padding: 4px;
+}
+
+.listContent {
+  flex: 1;
+}
+
+.listTitle {
+  font-weight: bold;
+  font-size: 14px;
+  color: #222;
+  margin-bottom: 8px;
+}
+
+.listMeta {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  color: #aaa;
+}
+
+.listMetaTime {
+  margin-right: 12px;
+}
+
+.content{
+  width: 100%;
+  height: 200px;
+}
+
+
+@font-face {
+  font-family: "iconfont"; /* Project id 4895172 */
+  src: url('//at.alicdn.com/t/c/font_4895172_p98k9ecqtkq.woff2?t=1749552222319') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4895172_p98k9ecqtkq.woff?t=1749552222319') format('woff'),
+       url('//at.alicdn.com/t/c/font_4895172_p98k9ecqtkq.ttf?t=1749552222319') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconsousuo:before {
+  content: "\e60d";
+}

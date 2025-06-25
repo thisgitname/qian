@@ -1,0 +1,225 @@
+.quanzi-container {
+  background: #FFF;
+  min-height: 100vh;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border-radius: 20px;
+  padding: 10px 16px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.search-bar input {
+  border: none;
+  outline: none;
+  flex: 1;
+  margin-left: 8px;
+  font-size: 14px;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.section-header h3 {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.more {
+  font-size: 13px;
+  color: #666;
+  cursor: pointer;
+}
+
+.hot-topics {
+  background: #f3efef;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.topics-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.topic-item {
+  display: flex;
+  align-items: center;
+  padding: 8px 0;
+  cursor: pointer;
+}
+
+.topic-id {
+  background: #1677ff;
+  color: #fff;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  margin-right: 12px;
+}
+
+.topic-title {
+  font-size: 14px;
+  color: #333;
+}
+
+.posts-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.post-item {
+  background: #fff;
+  border-radius: 12px;
+  /* box-shadow: 0 2px 8px rgba(0,0,0,0.1); */
+  flex: 1;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.author-info h4 {
+  font-size: 15px;
+  font-weight: 600;
+  margin: 0 0 4px 0;
+}
+
+.author-info span {
+  font-size: 12px;
+  color: #999;
+}
+
+.follow-btn {
+  background: #1677ff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 12px;
+  font-size: 13px;
+  cursor: pointer;
+}
+.follow-btns{
+  background: #9b9c9b;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 6px 12px;
+  font-size: 13px;
+  cursor: pointer;
+}
+.follow-btnss{
+  display: none;
+}
+
+.post-content {
+  margin-bottom: 12px;
+}
+
+.post-content p {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333;
+  margin: 0;
+}
+
+.post-images {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.post-images img {
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.post-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  color: #666;
+}
+
+.post-actions span {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+}
+
+.box_span{
+  display: none;
+}
+
+@font-face {
+  font-family: "iconfont"; /* Project id 4895172 */
+  src: url('//at.alicdn.com/t/c/font_4895172_b1edhf3p85s.woff2?t=1749688892649') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4895172_b1edhf3p85s.woff?t=1749688892649') format('woff'),
+       url('//at.alicdn.com/t/c/font_4895172_b1edhf3p85s.ttf?t=1749688892649') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* .icon-24gl-repost:before {
+  content: "\e99b";
+}
+
+.icon-24gl-repost2:before {
+  content: "\e99c";
+} */
+
+.icon-pinglun:before {
+  content: "\e614";
+}
+
+.icon-sousuo2:before {
+  content: "\e63b";
+}
+
+.icon-pinglun1:before {
+  content: "\e604";
+}
+
+.icon-xihuan:before {
+  content: "\e86f";
+}
+
+.icon-xihuan1:before {
+  content: "\e870";
+}
+
+.icon-zhuanfa:before {
+  content: "\e628";
+}
+
+.icon-sousuo:before {
+  content: "\e60d";
+}

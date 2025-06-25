@@ -1,0 +1,149 @@
+.container {
+    min-height: 100vh;
+    background-color: #fff;
+    padding-bottom: 60px;
+    position: relative;
+}
+
+.content {
+    padding: 16px;
+}
+
+.image {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin: 0 0 8px;
+}
+
+.time {
+    font-size: 14px;
+    color: #999;
+    margin: 0 0 16px;
+}
+
+.mainContent {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+}
+
+.commentSection {
+    padding: 16px;
+    background-color: #f5f5f5;
+}
+
+.commentTitle {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0 0 16px;
+    color: #333;
+}
+
+.commentList {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.commentItem {
+    display: flex;
+    gap: 12px;
+}
+
+.avatar {
+    --size: 40px;
+    border-radius: 50%;
+}
+
+.commentContent {
+    flex: 1;
+    min-width: 0;
+}
+
+.commentHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+.userName {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+}
+
+.commentTime {
+    font-size: 12px;
+    color: #999;
+}
+
+.commentText {
+    font-size: 14px;
+    color: #333;
+    margin: 0;
+    line-height: 1.4;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    padding: 8px 16px;
+    border-top: 1px solid #f0f0f0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.inputWrapper {
+    flex: 1;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.inputWrapper :global(.adm-input) {
+    --font-size: 14px;
+    background-color: #f5f5f5;
+    border-radius: 16px;
+    padding: 4px 12px;
+}
+
+.actions {
+    display: flex;
+    gap: 16px;
+}
+
+.actionItem {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    color: #666;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.actionItem span {
+    font-size: 12px;
+}
+
+.liked {
+    color: #ff3141;
+}
+
+.actionItem:active {
+    opacity: 0.8;
+} 

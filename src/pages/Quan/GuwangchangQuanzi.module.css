@@ -1,0 +1,206 @@
+/* 基础样式保持不变 */
+.quanzi-container {
+  padding: 12px;
+  /* background: #f5f5f5; */
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.search-bar {
+  margin-bottom: 12px;
+  display: flex;
+  width: 100%;
+  padding: 8px 12px;
+  border-radius: 20px;
+  border: 1px solid #e0e0e0;
+  background: #fff;
+  font-size: 14px;
+}
+
+.search-bar input {
+  border: none;
+}
+
+.search-bar input:focus {
+  outline: none;
+}
+
+.hot-topics {
+  background: #f5f5f5;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.section-header h3 {
+  font-size: 16px;
+}
+
+.more {
+  color: #666;
+  font-size: 12px;
+  background-color: #FFF;
+  border-radius: 5px 10px;
+  padding: 5px 10px;
+}
+
+.topic-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.topic-id {
+  color: #ff6b6b;
+  margin-right: 8px;
+  font-weight: bold;
+}
+
+.post-item {
+  background: #fff;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.author-info h4 {
+  font-size: 15px;
+  margin: 0;
+}
+
+.author-info span {
+  font-size: 12px;
+  color: #999;
+}
+
+.follow-btn {
+  background: #007aff;
+  color: #fff;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.post-content p {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 8px 0;
+}
+
+.post-images {
+  /* display: grid; */
+  grid-template-columns: repeat(2, 1fr);
+  gap: 6px;
+  margin: 10px 0;
+  text-align: left;
+}
+
+.post-images img {
+  /* width: 100%; */
+  border-radius: 6px;
+  aspect-ratio: 1;
+  object-fit: cover;
+  margin-right: 15px;
+}
+
+.post-actions {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  color: #666;
+  font-size: 12px;
+}
+
+.post-actions span {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* 移动端适配 */
+@media screen and (max-width: 768px) {
+  .quanzi-container {
+    padding: 8px;
+  }
+
+  .post-images {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 4px;
+  }
+
+  .post-actions {
+    gap: 12px;
+  }
+}
+
+/* 小屏幕手机适配 */
+@media screen and (max-width: 320px) {
+  .post-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .follow-btn {
+    margin-top: 8px;
+  }
+
+  .post-actions {
+    gap: 8px;
+  }
+}
+
+@font-face {
+  font-family: "iconfont"; /* Project id 4895172 */
+  src: url('//at.alicdn.com/t/c/font_4895172_nvgnfvq6df8.woff2?t=1749266197951') format('woff2'),
+       url('//at.alicdn.com/t/c/font_4895172_nvgnfvq6df8.woff?t=1749266197951') format('woff'),
+       url('//at.alicdn.com/t/c/font_4895172_nvgnfvq6df8.ttf?t=1749266197951') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xihuan:before {
+  content: "\e86f";
+}
+
+.icon-xihuan1:before {
+  content: "\e870";
+  font-size: 20px;
+}
+
+.icon-zhuanfa:before {
+  content: "\e628";
+  font-size: 20px;
+}
+
+.icon-duanxin1:before {
+  content: "\e629";
+  font-size: 20px;
+}
+
+.icon-sousuo:before {
+  content: "\e60d";
+  width: 50px;
+  font-size: 20px;
+}

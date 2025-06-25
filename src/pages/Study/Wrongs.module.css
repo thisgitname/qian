@@ -1,0 +1,117 @@
+.navBar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+}
+
+.container {
+    padding: 16px;
+    padding-top: 60px; /* NavBar的高度 + 一些间距 */
+    background-color: #f5f5f5;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.questionList {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.questionBox {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-size: 16px;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.option {
+    padding: 12px;
+    border-radius: 6px;
+    background-color: #f9f9f9;
+    font-size: 14px;
+    line-height: 1.4;
+    transition: all 0.3s ease;
+}
+
+.correct {
+    background-color: #e8f5e9;
+    color: #2e7d32;
+    border: 1px solid #a5d6a7;
+}
+
+.wrong {
+    background-color: #ffebee;
+    color: #c62828;
+    border: 1px solid #ef9a9a;
+}
+
+.analysis {
+    background-color: #f8f9fa;
+    padding: 12px;
+    border-radius: 6px;
+    margin-top: 12px;
+}
+
+.answerInfo, .courseInfo {
+    margin-bottom: 8px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+}
+
+.answerInfo:last-child {
+    margin-bottom: 0;
+}
+
+.label {
+    color: #666;
+    min-width: 80px;
+}
+
+.value {
+    color: #333;
+    font-weight: 500;
+}
+
+.timestamp {
+    color: #999;
+    font-size: 12px;
+    margin-top: 8px;
+    text-align: right;
+}
+
+/* 加载状态样式 */
+:global(.adm-infinite-scroll-loading) {
+    padding: 12px 0;
+    text-align: center;
+    color: #999;
+    font-size: 14px;
+}
+
+/* 完成加载样式 */
+:global(.adm-infinite-scroll-complete) {
+    padding: 12px 0;
+    text-align: center;
+    color: #999;
+    font-size: 14px;
+} 

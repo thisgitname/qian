@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    min-height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.content {
+    padding: 16px;
+}
+
+.timer {
+    font-size: 16px;
+    font-weight: bold;
+    color: #1677ff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    background-color: rgba(22, 119, 255, 0.1);
+}
+
+.questionCard {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.question h3 {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 16px;
+    line-height: 1.5;
+}
+
+.titleRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: bold;
+    flex: 1;
+}
+
+.questionHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+}
+
+.starIcon {
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 50%;
+    transition: all 0.3s;
+}
+
+.starIcon:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.starIcon:active {
+    transform: scale(0.95);
+}
+
+.collectButton {
+    display: none;
+}
+
+.collected {
+    display: none;
+}
+
+.options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.option {
+    padding: 12px 15px;
+    background: #f8f8f8;
+    border-radius: 8px;
+    font-size: 15px;
+    color: #666;
+    cursor: pointer;
+    transition: all 0.3s;
+    border: 1px solid transparent;
+}
+
+.option:hover {
+    background: #e8e8e8;
+}
+
+.option.selected {
+    background: #e6f4ff;
+    color: #1677ff;
+    border-color: #91caff;
+}
+
+.option.correct {
+    background: #f6ffed;
+    color: #52c41a;
+    border-color: #b7eb8f;
+}
+
+.option.wrong {
+    background: #fff2f0;
+    color: #ff4d4f;
+    border-color: #ffccc7;
+}
+
+.actions {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.submitButton {
+    width: 200px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 20px;
+    background-color: #1677ff;
+    color: white;
+}
+
+.submitButton:disabled {
+    opacity: 0.6;
+    background-color: #ccc;
+}
+
+.loadingContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: calc(100vh - 45px);
+    background-color: #fff;
+    border-radius: 12px;
+    margin: 16px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.loadingText {
+    margin-top: 12px;
+    color: #666;
+    font-size: 14px;
+}

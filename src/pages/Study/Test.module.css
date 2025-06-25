@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tabs {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.tabsItem {
+    width: 100%;
+}
+
+.tabsContent {
+    padding: 10px;
+    width: 100%;
+}
+
+.tabsContentItem {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border-radius: 12px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+.tabsContentItem img {
+    width: 80px;
+    height: 80px;
+    border-radius: 8px;
+    margin-right: 15px;
+    object-fit: cover;
+}
+
+.title {
+    font-size: 16px;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.startButton {
+    --background-color: #1677ff;
+    --text-color: #fff;
+    width: 100px;
+    height: 36px;
+    border-radius: 18px;
+    font-size: 14px;
+}
+
+.emptyTip {
+    text-align: center;
+    padding: 40px 0;
+    color: #999;
+    font-size: 14px;
+    background: #fff;
+    border-radius: 12px;
+    margin: 10px 0;
+}
+
+.collectButton,
+.collected {
+    display: none;
+}
+
+.actions {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 10px;
+}
+

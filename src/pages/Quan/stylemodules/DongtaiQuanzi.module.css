@@ -1,0 +1,39 @@
+.container {
+  padding: 20px;
+  background: #f5f5f5;
+}
+
+.tabContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.tab {
+  padding: 8px 16px;
+  border-radius: 16px;
+  background: #fff;
+  color: #666;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.tabActive {
+  background: #1677ff;
+  color: #fff;
+}
+
+.span{
+  font-size: 16px;
+  padding: 5px 10px;
+  background-color: #48acea;
+  color:#FFF;
+  border-radius: 5px;
+}
+
+
+.spans{
+  font-size: 16px;
+  padding: 5px 10px;
+  
+}
