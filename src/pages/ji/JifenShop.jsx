@@ -31,7 +31,7 @@ export default function JifenShop() {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const userid = localStorage.getItem('userid');
+        const userid = localStorage.getItem('user');
         if (!userid) {
           setError('请先登录');
           return;

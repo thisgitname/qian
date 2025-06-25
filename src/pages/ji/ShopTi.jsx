@@ -89,7 +89,7 @@ export default function ShopTi() {
 
   // 获取地址列表
   const fetchAddressList = async (autoSelect = false) => {
-    const userid = localStorage.getItem('userid');
+    const userid = localStorage.getItem('user');
     if (!userid) {
       Toast.show({ icon: 'fail', content: '请先登录' });
       return;
@@ -143,7 +143,7 @@ export default function ShopTi() {
 
   // 设置默认地址
   const handleSetDefault = async (addr) => {
-    const userid = localStorage.getItem('userid');
+    const userid = localStorage.getItem('user');
     if (!userid) {
       Toast.show({ icon: 'fail', content: '请先登录' });
       return;
@@ -177,7 +177,7 @@ export default function ShopTi() {
 
   // 提交添加地址
   const handleSubmitAddress = async (values) => {
-    const userid = localStorage.getItem('userid');
+    const userid = localStorage.getItem('user');
     if (!userid) {
       Toast.show({ icon: 'fail', content: '请先登录' });
       return;
@@ -216,7 +216,7 @@ export default function ShopTi() {
     
     setSubmitting(true);
     try {
-      const userid = localStorage.getItem('userid');
+      const userid = localStorage.getItem('user');
       if (!userid) {
         Toast.show({ icon: 'fail', content: '请先登录' });
         setSubmitting(false);

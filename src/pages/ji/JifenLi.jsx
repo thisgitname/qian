@@ -33,7 +33,7 @@ const PointsCalendar = () => {
   useEffect(() => {
     // 加载当前用户所有签到日期
     const loadSignedDates = async () => {
-      const userid = localStorage.getItem('userid');
+      const userid = localStorage.getItem('user');
       if (!userid) return;
       try {
         // 请求后端接口，获取签到记录

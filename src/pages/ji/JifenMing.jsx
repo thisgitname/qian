@@ -13,7 +13,7 @@ export default function JifenMing() {
 
   useEffect(() => {
     // 从localStorage获取用户ID
-    const storedUserid = localStorage.getItem('userid');
+    const storedUserid = localStorage.getItem('user');
     if (!storedUserid) {
       setError('请先登录');
       setLoading(false);
