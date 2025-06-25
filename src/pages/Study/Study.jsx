@@ -68,15 +68,15 @@ const Study = () => {
   // }, []);
 
   const videoList = [
-    { id: 1, course: "文学", title: "课程名称", img: "/img/文学史.png", tags: ["必考", "理论"], progress: 33 },
-    { id: 2, course: "历史", title: "课程名称", img: "/img/课程.png", tags: ["必考", "理论"], progress: 40 },
-    { id: 3, course: "政治", title: "课程名称", img: "/img/课程.png", tags: ["必考", "理论"], progress: 58 },
-    { id: 4, course: "文学", title: "课程名称", img: "/img/古代文学概述.png", tags: ["必考", "理论"], progress: 75 },
-    { id: 5, course: "历史", title: "课程名称", img: "/img/课程.png", tags: ["必考", "理论"], progress: 0 },
-    { id: 6, course: "政治", title: "课程名称", img: "/img/课程.png", tags: ["必考", "理论"], progress: 25 },
-    { id: 7, course: "文学", title: "课程名称", img: "/img/当代文学概述.png", tags: ["必考", "理论"], progress: 100 },
-    { id: 8, course: "历史", title: "课程名称", img: "/img/课程.png", tags: ["选考", "理论"], progress: 20 },
-    { id: 9, course: "政治", title: "课程名称", img: "/img/课程.png", tags: ["选考", "理论"], progress: 80 },
+    { id: 1, course: "文学", title: "课程名称", img: "/img/wenxueshi.png", tags: ["必考", "理论"], progress: 33 },
+    { id: 2, course: "历史", title: "课程名称", img: "/img/wenxueshi.png", tags: ["必考", "理论"], progress: 40 },
+    { id: 3, course: "政治", title: "课程名称", img: "/img/wenxueshi.png", tags: ["必考", "理论"], progress: 58 },
+    { id: 4, course: "文学", title: "课程名称", img: "/img/gudaiwenxue.png", tags: ["必考", "理论"], progress: 75 },
+    { id: 5, course: "历史", title: "课程名称", img: "/img/wenxueshi.png", tags: ["必考", "理论"], progress: 0 },
+    { id: 6, course: "政治", title: "课程名称", img: "/img/wenxueshi.png", tags: ["必考", "理论"], progress: 25 },
+    { id: 7, course: "文学", title: "课程名称", img: "/img/dangdaiwenxue.png", tags: ["必考", "理论"], progress: 100 },
+    { id: 8, course: "历史", title: "课程名称", img: "/img/wenxueshi.png", tags: ["选考", "理论"], progress: 20 },
+    { id: 9, course: "政治", title: "课程名称", img: "/img/wenxueshi.png", tags: ["选考", "理论"], progress: 80 },
   ]
   const [state, setState] = useState(false)
   return (
@@ -131,7 +131,7 @@ const Study = () => {
         <div className={styles.tools}>
           <div className={styles.toolItem}>
             <div className={styles.toolIcon} style={{ backgroundColor: '#FF6B6B' }} onClick={() => { navigate('/test', { state: { course: course } }) }}>
-              <img src="/icons/试卷库.png" alt="试题库" />
+              <img src="/icons/exam.png" alt="试卷库" />
             </div>
             <span className={styles.toolText}>试题库</span>
           </div>
@@ -141,19 +141,19 @@ const Study = () => {
                 console.log('Study - 点击错题本，当前 course:', course);
                 navigate('/wrong', { state: { course: course } });
               }}>
-              <img src="/icons/错题本.png" alt="错题本" />
+              <img src="/icons/wrong.png" alt="错题本" />
             </div>
             <span className={styles.toolText}>错题本</span>
           </div>
           <div className={styles.toolItem}>
             <div className={styles.toolIcon} style={{ backgroundColor: '#42CD71' }} onClick={() => { navigate('/collect', { state: { course: course } }) }}>
-              <img src="/icons/收藏夹.png" alt="我的收藏" />
+              <img src="/icons/collect.png" alt="收藏夹" />
             </div>
             <span className={styles.toolText}>我的收藏</span>
           </div>
           <div className={styles.toolItem}>
             <div className={styles.toolIcon} style={{ backgroundColor: '#FFB74D' }} onClick={() => { navigate('/materials', { state: { course: course } }) }}>
-              <img src="/icons/学习资料.png" alt="学习资料" />
+              <img src="/icons/study.png" alt="学习资料" />
             </div>
             <span className={styles.toolText}>学习资料</span>
           </div>
@@ -162,10 +162,10 @@ const Study = () => {
         <div className={styles.banner}>
           <Swiper autoplay={2000} loop>
             <Swiper.Item className={styles.bannerImg}>
-              <img src="/img/考前焦虑.png" alt="考前培训冲刺班" />
+              <img src="/img/kaoqianjiaolv.png" alt="考前培训冲刺班" />
             </Swiper.Item>
             <Swiper.Item className={styles.bannerImg}>
-              <img src="/img/百日冲刺.png" alt="考前培训冲刺班" />
+              <img src="/img/bairichongci.png" alt="考前培训冲刺班" />
             </Swiper.Item>
           </Swiper>
         </div>
